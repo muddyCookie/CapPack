@@ -8,11 +8,11 @@ This website now runs as plain static files.
 python3 -m http.server 8000
 ```
 
-Then open `http://localhost:8000/home.html`.
+Then open `http://localhost:8000`.
 
 ## Main files
 
-- `home.html`
+- `index.html`
 - `downloads.html`
 - `version-compatibility.html`
 - `credits.html`
